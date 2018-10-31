@@ -1,5 +1,4 @@
 from .transport import IDCMTransport
-from decimal import Decimal
 
 
 class IDCMApi(IDCMTransport):
